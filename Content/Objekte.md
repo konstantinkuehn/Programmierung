@@ -1,0 +1,1 @@
+Objekte sind einzigartige Dinge einer [Klasse](Klassen.md). Diese werden meist über das [[Keyword]]  "new" gefolgt vom [[Typ]] erstellt , gefolgt von [[Parameter]]. 
