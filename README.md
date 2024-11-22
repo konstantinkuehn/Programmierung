@@ -12,7 +12,6 @@ Die meisten Programmierdokumentationen konzentrieren sich auf technische Definit
 
 ---
 
-## Mitwirken  
 # Nutzung dieses Repositories mit Obsidian  
 
 Dieses Repository wurde mit **[Obsidian](https://obsidian.md)** erstellt, einer leistungsstarken App für Markdown-Notizen. Um die Inhalte optimal lesen und bearbeiten zu können, wird die Verwendung von Obsidian empfohlen.
@@ -55,6 +54,9 @@ Wenn du Obsidian nicht verwenden möchtest, kannst du die Markdown-Dateien auch 
 
 💡 **Tipp:** Schau dir die [Obsidian-Einführung](https://help.obsidian.md/) an, um alle Funktionen kennenzulernen und das volle Potenzial auszuschöpfen!  
 
+---
+
+## Mitwirken  
 Du möchtest helfen, Programmieren für alle zugänglicher zu machen? Fantastisch! Hier erfährst du, wie du dich einbringen kannst:  
 
 ### 1. Inhalte erweitern oder verbessern  
