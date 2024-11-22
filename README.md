@@ -12,8 +12,51 @@ Die meisten Programmierdokumentationen konzentrieren sich auf technische Definit
 
 ---
 
-## Mitwirken  
+# Nutzung dieses Repositories mit Obsidian  
 
+Dieses Repository wurde mit **[Obsidian](https://obsidian.md)** erstellt, einer leistungsstarken App für Markdown-Notizen. Um die Inhalte optimal lesen und bearbeiten zu können, wird die Verwendung von Obsidian empfohlen.
+
+---
+
+## Warum Obsidian?  
+
+Obsidian ist eine Markdown-basierte Notiz-App, die es ermöglicht:  
+- **Verlinkungen:** Inhalte durch interne Links (wie [[Objekte]]) intuitiv zu verknüpfen.  
+- **Visualisierung:** Beziehungen zwischen Notizen in einem Graphen darzustellen.  
+- **Einfachheit:** Markdown als Basis ermöglicht die plattformunabhängige Nutzung.  
+
+---
+
+## So installierst und nutzt du Obsidian  
+
+### 1. Installation  
+1. Besuche die [Obsidian-Website](https://obsidian.md).  
+2. Lade die Anwendung für dein Betriebssystem herunter.  
+3. Installiere Obsidian auf deinem Gerät.  
+
+### 2. Repository in Obsidian öffnen  
+1. Klone oder lade dieses Repository auf deinen Computer.  
+2. Öffne Obsidian.  
+3. Wähle `Open Folder as Vault` aus und wähle den Ordner des Repositories.  
+
+### 3. Grundlagen von Obsidian  
+- **[[Link]]:** Verlinke Inhalte, indem du doppelte eckige Klammern nutzt, z. B. `[[Objekte]]`.  
+- **Graph-Ansicht:** Visualisiere, wie Notizen miteinander verknüpft sind.  
+  - Aktivieren über das Seitensymbol oben rechts in der Obsidian-Oberfläche.  
+- **Bearbeiten:** Markdown-Dateien können direkt im Editor verändert werden.  
+
+---
+
+## Alternativen  
+Wenn du Obsidian nicht verwenden möchtest, kannst du die Markdown-Dateien auch in jedem Texteditor (z. B. VS Code, Notepad++, oder einem Online-Markdown-Viewer) öffnen. Einige Funktionen, wie die internen Links (z. B. `[[Objekte]]`), funktionieren jedoch nur in Obsidian.  
+
+---
+
+💡 **Tipp:** Schau dir die [Obsidian-Einführung](https://help.obsidian.md/) an, um alle Funktionen kennenzulernen und das volle Potenzial auszuschöpfen!  
+
+---
+
+## Mitwirken  
 Du möchtest helfen, Programmieren für alle zugänglicher zu machen? Fantastisch! Hier erfährst du, wie du dich einbringen kannst:  
 
 ### 1. Inhalte erweitern oder verbessern  
